@@ -19,8 +19,17 @@ try running this command
 $ sudo npm link gulp
 ```
 
+then run
+
+```
+npm install
+````
+to install the dependencies
+
 then run gulp
 
 ```
 $ gulp
-```
+``
+
+
